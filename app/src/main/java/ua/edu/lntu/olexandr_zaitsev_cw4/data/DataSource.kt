@@ -1,17 +1,19 @@
 package ua.edu.lntu.olexandr_zaitsev_cw4.data
 
+import ua.edu.lntu.olexandr_zaitsev_cw4.R
+
 object DataSource {
     val typesSubscriptions = listOf(
-        "Classic",
-        "Student",
-        "Family",
-        "Duo",
-        "Privileges"
+        R.string.classic,
+        R.string.student,
+        R.string.family,
+        R.string.duo,
+        R.string.privileges
     )
 
     val durationOptions = listOf(
-        Pair("One month", 1),
-        Pair("Half of year", 6),
-        Pair("One year", 12)
+        Pair(R.string.month, 1),
+        Pair(R.string.six_month, 6),
+        Pair(R.string.twelve_month, 12)
     )
 }

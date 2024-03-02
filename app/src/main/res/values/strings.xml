@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Olexandr_Zaitsev_cw4</string>
+    <string name="classic">Classic</string>
+    <string name="student">Student</string>
+    <string name="family">Family</string>
+    <string name="duo">Duo</string>
+    <string name="privileges">Privileges</string>
+    <string name="month">One month</string>
+    <string name="six_month">Half of year</string>
+    <string name="twelve_month">One year</string>
+    <string name="youtube_premium">YoutubePremium Subscription</string>
 </resources>
