@@ -5,8 +5,24 @@
     <string name="family">Family</string>
     <string name="duo">Duo</string>
     <string name="privileges">Privileges</string>
+    <string name="duration">Duration</string>
     <string name="month">One month</string>
     <string name="six_month">Half of year</string>
     <string name="twelve_month">One year</string>
-    <string name="youtube_premium">YoutubePremium Subscription</string>
+    <string name="youtube_premium">YoutubePremium Subscribe</string>
+    <string name="back_button">Back</string>
+    <string name="subscribe_summary">Subscribe Summary</string>
+    <string name="choose_type">Choose type of subscribe</string>
+    <string name="new_subscribe">New subscribe</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="subscribe_details">Duration %1$s \nType: %2$s \nTotal: %4$s \n\nThank you!</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="send">Send Order to Another App</string>
+    <plurals name="subscribes">
+        <item quantity="one">%d subscribe</item>
+        <item quantity="other">%d subscribe</item>
+    </plurals>
 </resources>

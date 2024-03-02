@@ -1,4 +1,4 @@
-package ua.edu.lntu.olexandr_zaitsev_cw4
+package ua.edu.lntu.olexandr_zaitsev_cw4.ui
 
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Image
@@ -22,6 +22,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import ua.edu.lntu.olexandr_zaitsev_cw4.R
 import ua.edu.lntu.olexandr_zaitsev_cw4.data.DataSource
 import ua.edu.lntu.olexandr_zaitsev_cw4.ui.theme.Olexandr_Zaitsev_cw4Theme
 

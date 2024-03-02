@@ -1,5 +1,6 @@
 package ua.edu.lntu.olexandr_zaitsev_cw4
 
+import SubscribeApp
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -19,7 +20,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             Olexandr_Zaitsev_cw4Theme {
-                YoutubeSubscribeApp()
+                SubscribeApp()
             }
         }
     }
